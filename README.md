@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @BigBossSpektrum
+- 👋 Hi, I’m Silveker J Hernandez M
 - 👀 I’m interested in learn programation
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Hacking
 - 💞️ I’m looking to collaborate on some projects with python
 - 📫 How to reach me Silvekerhernandez@proton.me
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
