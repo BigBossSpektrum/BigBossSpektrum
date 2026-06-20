@@ -1,5 +1,5 @@
-## 👋 Hola, soy Jonathan
-![git-banner](https://github.com/user-attachments/assets/5d495bd7-2101-4bde-906d-e0ad1d178535)
+  ## 👋 Hola, soy Jonathan
+![Banner](https://raw.githubusercontent.com/BigBossSpektrum/BigBossSpektrum/main/banner.png)
 
 ## 🚀 Sobre mí
 <ul dir="auto">
