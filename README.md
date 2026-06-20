@@ -1,5 +1,8 @@
-  ## 👋 Hola, soy Jonathan
-![Banner](https://raw.githubusercontent.com/BigBossSpektrum/BigBossSpektrum/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BigBossSpektrum/BigBossSpektrum/main/banner.png" alt="Silveker Hernández — Desarrollador Full Stack" width="100%" />
+</p>
+
+## 👋 Hola, soy Jonathan
 
 ## 🚀 Sobre mí
 <ul dir="auto">
