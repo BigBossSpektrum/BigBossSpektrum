@@ -45,9 +45,9 @@ Y muchas más!
 
 ## ⚙️ GitHub Analytics
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=afsh4ck&show_icons=true&theme=merko" alt="GitHub stats" height="148">
-  <a href="https://github.com/afsh4ck/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsh4ck&layout=compact&theme=merko" alt="Top Langs" height="148">
+  <img src="https://github-readme-stats.vercel.app/api?username=bigbossspektrum&show_icons=true&theme=merko" alt="GitHub stats" height="148">
+  <a href="https://github.com/bigbossspektrum/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbossspektrum&layout=compact&theme=merko" alt="Top Langs" height="148">
   </a>
 </div>
 <br>
